@@ -1,7 +1,9 @@
 import mlflow
 
+
 def add(a, b):
     return a + b
+
 
 if __name__ == "__main__":
     # Define different sets of parameters
